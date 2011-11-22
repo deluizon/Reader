@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+	<page>
+		<number>1</number>
+		<title>This is page one</title>
+		<image>dog.jpg</image>
+		<description>Hello, This is a dog</description>
+	</page>
+	<page>
+		<number>2</number>
+		<title>This is page two</title>
+		<image>monkey.jpg</image>
+		<description>Hello, this is a monkey</description>
+</pages>
